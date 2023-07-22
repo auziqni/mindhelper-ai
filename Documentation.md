@@ -13,3 +13,29 @@ component libray ,version 0.3.0
 ```jsx
 npx shadcn-ui@latest init
 ```
+
+#### Component
+
+ini adalah contoh adding new component
+
+```jsx
+npx shadcn-ui@latest add button
+```
+
+
+
+### Clerk
+
+auth lib
+
+```jsx
+npm install @clerk/nextjs
+```
+
+
+
+### hookform/resolvers
+
+```jsx
+npm i @hookform/resolvers
+```

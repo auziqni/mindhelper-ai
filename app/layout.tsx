@@ -6,8 +6,8 @@ import { ClerkProvider } from "@clerk/nextjs";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "MindYou",
-  description: "Ai plaftorm to help your minding idea",
+  title: "Menaric",
+  description: "Dari Menaric untuk yang tertarik - AI Platform ",
 };
 
 export default function RootLayout({
