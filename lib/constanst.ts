@@ -13,7 +13,7 @@ export const tools = [
   {
     label: "Music Generation",
     icon: Music,
-    href: "/music",
+    href: "/musicgen",
     color: "text-emerald-500",
     bgColor: "bg-emerald-500/10",
   },
@@ -22,14 +22,14 @@ export const tools = [
     icon: ImageIcon,
     color: "text-pink-700",
     bgColor: "bg-pink-700/10",
-    href: "/image",
+    href: "/imagegen",
   },
   {
     label: "Video Generation",
     icon: VideoIcon,
     color: "text-orange-700",
     bgColor: "bg-orange-700/10",
-    href: "/video",
+    href: "/videogen",
   },
   {
     label: "Code Generation",

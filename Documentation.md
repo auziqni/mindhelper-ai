@@ -2,8 +2,6 @@
 
 ini adalah file yang membantu untuk melihat hal detil yang tidak dituliskan pada comment code
 
-
-
 ## Depedencies
 
 ### shacn ui
@@ -22,8 +20,6 @@ ini adalah contoh adding new component
 npx shadcn-ui@latest add button
 ```
 
-
-
 ### Clerk
 
 auth lib
@@ -32,10 +28,16 @@ auth lib
 npm install @clerk/nextjs
 ```
 
-
-
 ### hookform/resolvers
 
 ```jsx
 npm i @hookform/resolvers
+```
+
+
+
+### open ai
+
+```jsx
+npm i openai
 ```

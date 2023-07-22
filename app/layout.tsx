@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Menaric",
-  description: "Dari Menaric untuk yang tertarik - AI Platform ",
+  description: "Dari Menaric untuk yang menarik - AI Platform by Auziqni ",
 };
 
 export default function RootLayout({
