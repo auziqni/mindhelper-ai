@@ -34,10 +34,21 @@ npm install @clerk/nextjs
 npm i @hookform/resolvers
 ```
 
-
-
 ### open ai
 
 ```jsx
 npm i openai
+```
+
+### replicate ai
+
+```tsx
+npm i replicate
+```
+
+### prisma
+
+```tsx
+npm i -D prisma
+npx prisma init
 ```
